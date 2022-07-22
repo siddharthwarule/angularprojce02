@@ -1,0 +1,78 @@
+
+
+.sidebar{
+    /* display: block; */
+    /* position: sticky ; */
+    align-content: center;
+    text-align: left;
+    /* margin-right: 90px; */
+    font-family: 'Roboto Mono', monospace;
+      background-color: bisque;
+    height:750vh;
+    
+     width:15vw;
+    }
+
+ .inp{
+
+text-align: center;
+border-radius: 120px;
+margin-top: 10px;
+
+width: 200px;
+
+ }
+
+ .sidebar nav li{
+   
+    display: block;
+  
+    list-style: none;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.sidebar nav li a{
+    
+    display: block;
+    
+    align-items: center;
+    text-align: center;
+    
+    text-decoration: none;
+}
+
+.sidebar nav li a:hover{
+
+    border: solid rgb(8, 224, 19);
+    color: rgb(12, 12, 12);
+
+}
+.catagory{
+ 
+    margin-left: 60px;
+
+ color:rgb(86, 76, 76);
+    text-align: center;
+   
+   align-content: center;
+
+
+}
+.elect{
+   
+    /* color: rgb(9, 165, 25); */
+
+    padding:5px;
+    font-weight: bold;
+    margin-left: 25px;
+
+
+}
+.cloths{
+
+    margin-left: 50px;
+
+    color: green;
+
+}
