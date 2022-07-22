@@ -1,10 +1,10 @@
-# angularprojce02
+# angularproject
 
-thise is second task project with the angular  
+this is second task project with the angular  
 
 
 build your project
-ng new project
+ng new project commond
 
 get my angular project src 
 
